@@ -43,6 +43,7 @@ With a solid Laravel foundation and a polished UI, you can focus on what makes y
 </div>
 
 ---
+lets me also having the simple contribution in this repo
 
 ## Contributing
 
